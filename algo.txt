@@ -2,7 +2,7 @@
 20
 30 se dice treinta
 40
-50 se dice cincuenta
+50 se dice 5 veces 10
 60
 70 se dice setenta
 80
